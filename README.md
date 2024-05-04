@@ -11,7 +11,7 @@
 </p> 
 
 - 🏢 I'm a website developer and designer
-- 👨‍💻 As a it student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML5, CSS, and JavaScript, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio atALAA-ALIAN to see some of the projects I've worked on.
